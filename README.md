@@ -22,4 +22,5 @@ Identify the first machine to investigate based on:
 - Activity within **June 15–17, 2025**
 - **Executions from the Temp folder**
 - Devices active for **2–3 days**
+- 
 
