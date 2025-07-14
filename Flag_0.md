@@ -1,3 +1,21 @@
+
+## 🧠 Analysis
+
+The following Kusto query was used to identify suspicious activity:
+
+```kusto
+DeviceProcessEvents
+| where ProcessCommandLine contains "Temp"
+| where Timestamp between (datetime(2025-06-15) .. datetime(2025-06-17))
+| summarize Count = count() by DeviceName
+| order by Count desc
+This query filters for:
+
+Executions from the Temp folder
+Events within the date range June 15–17, 2025
+Summarizes the count of such events by DeviceName
+Orders the results in descending order to highlight the most active devices
+
 ## ✅ Conclusion
 Based on the query results, the machine with the highest number of executions from the Temp folder during the suspicious timeframe is:
 
