@@ -9,8 +9,8 @@ This is the first machine to investigate in the cyber threat hunt.
 
 To support the identification of `michaelvm` as the first machine to investigate, the following artifacts have been included:
 
-🖼️ **Screenshot**: A visual capture of the query results showing the number of Temp folder executions per device between June 15–17, 2025. This screenshot highlights `michaelvm` at the top of the list with 311 events.
+🖼️ **Screenshot**: A visual capture of the query results showing the number of Temp folder executions per device between June 15–17, 2025. This screenshot highlights `michaelvm` at the top of the list with 311 events.![](Flag_0.png)
 
-📊 [**Excel Sheet**](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/maineviceProcessEvents query. This allows for further analysis and verification of the execution counts across devices.
+📊 [**Excel Sheet**](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/Flag%200.csv) This allows for further analysis and verification of the execution counts across devices.
 
 These artifacts provide visual and tabular confirmation of the suspicious activity on `michaelvm`, reinforcing its selection as the initial point of investigation in this threat hunt.
