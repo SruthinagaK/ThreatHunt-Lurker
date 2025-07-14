@@ -29,7 +29,7 @@ Identify the first machine to investigate based on:
 
 ✅ **Answer**: `michaelvm`
 
-🔗 Click the [flag 0: Starting Point] (https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/Flag_0.md) to view full details.
+🔗 Click the [flag 0: Starting Point](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/Flag_0.md) to view full details.
 
 -
 
