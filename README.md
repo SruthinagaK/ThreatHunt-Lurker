@@ -18,9 +18,20 @@ Your job is simple: Prove what really happened.
 Follow the signs. Trust the data. Question everything.
 
 ## 🎯 Investigation Objective
+
+## 🚩 Flags
+
+### FLAG 0: Starting Point
 Identify the first machine to investigate based on:
 - Activity within **June 15–17, 2025**
 - **Executions from the Temp folder**
 - Devices active for **2–3 days**
-- 
+
+✅ **Answer**: `michaelvm`
+
+🔗 Click the [flag 0: Starting Point] (https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/Flag_0.md) to view full details.
+
+-
+
+
 
