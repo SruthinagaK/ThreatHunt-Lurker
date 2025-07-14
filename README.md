@@ -30,6 +30,6 @@ Find the earliest .ps1 script execution that deviates from normal behavior — e
 ✅ **Answer**: 
 `"powershell.exe" -ExecutionPolicy Bypass -File "C:\Users\Mich34L_id\CorporateSim\Investments\Crypto\wallet_gen_0.ps1" `
 
-🔗 Click the [flag 1:  Initial PowerShell Execution Detection](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/Flag_1.md) to view full details.
+🔗 Click the [flag 1:  Initial PowerShell Execution Detection](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/flag_1.md)) to view full details.
 
 
