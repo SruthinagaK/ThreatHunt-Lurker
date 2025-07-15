@@ -1,7 +1,9 @@
 🚩 Flag 2 – Reconnaissance Script Hash
 🎯 Objective:
-Identify the PowerShell script used during the reconnaissance phase of the attack and its associated SHA256 hashh.
+Identify the PowerShell script used during the reconnaissance phase of the attack and its associated SHA256 hash. 
+
 🧠 Analysis:
+
 Using the query:
 ```kusto
 DeviceProcessEvents
