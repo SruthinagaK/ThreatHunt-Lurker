@@ -31,5 +31,26 @@ Find the earliest .ps1 script execution that deviates from normal behavior — e
 `"powershell.exe" -ExecutionPolicy Bypass -File "C:\Users\Mich34L_id\CorporateSim\Investments\Crypto\wallet_gen_0.ps1" `
 
 🔗 Click the [flag 1:  Initial PowerShell Execution Detection](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/flag_1.md)) to view full details.
+### 🚩 Flag 2 – Reconnaissance Script Hash
+🎯 Objective:
+Identify the binary or script used during the reconnaissance stage of the attack.
+
+🔍 What to Hunt:
+Look for signs of local reconnaissance activity, such as:
+
+PowerShell scripts or executables that gather system, user, or network information.
+Files with suspicious or uncommon hash values.
+Scripts executed shortly after initial access.
+💭 Thought:
+Reconnaissance is often one of the first steps an attacker takes after gaining access. It helps them understand the environment before moving laterally or escalating privileges.
+
+✅ Task:
+Identify the hash value of the script or binary used for reconnaissance.
+
+✅ **Answer**: 
+`badf4752413cb0cbdc03fb95820ca167f0cdc63b597ccdb5ef43111180e088b0 `
+
+🔗 Click the [Flag 2 – Reconnaissance Script Hash](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/flag_2.md)  to view full details.
+
 
 
