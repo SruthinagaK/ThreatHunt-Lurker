@@ -7,7 +7,7 @@ A new device began acting strangely, echoing signs of a past compromise. By foll
 
 ## 🚩 Flags
 
-### FLAG 0: Starting Point
+### 🚩 FLAG 0: Starting Point
 Identify the first machine to investigate based on:
 - Activity within **June 15–17, 2025**
 - **Executions from the Temp folder**
@@ -17,7 +17,7 @@ Identify the first machine to investigate based on:
 
 🔗 Click the [flag 0: Starting Point](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/Flag_0.md) to view full details.
 
-### Flag 1 : Initial PowerShell Execution Detection
+### 🚩 Flag 1 : Initial PowerShell Execution Detection
 
 🧠 Summary:
 The investigation focuses on identifying the first suspicious PowerShell script execution that may mark the intruder’s entry point. By detecting unusual PowerShell activity early in the timeline, we can begin to trace the attacker’s movements and understand how the compromise began.
