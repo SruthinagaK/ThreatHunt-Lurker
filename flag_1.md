@@ -1,6 +1,4 @@
 🚩 Flag 1 – Initial PowerShell Execution Detection
-🎯 Objective:
-Identify the first suspicious PowerShell script execution that may indicate the intruder's initial activity.
 
 🧠 Analysis:
 Using the following KQL query:
