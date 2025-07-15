@@ -21,4 +21,6 @@ This command was executed at **3:38:07 PM**, and appears to be the initial suspi
 
 *These high-elevation executions suggest the attacker may have used PowerShell scripts to perform reconnaissance or prepare for further compromise.*
 
+The link to go back to the  [scenario](https://github.com/SruthinagaK/ThreatHunt-Lurker)
+
 
