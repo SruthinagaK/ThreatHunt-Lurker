@@ -27,3 +27,5 @@ To support the identification of `michaelvm` as the first machine to investigate
 📊 [**Excel Sheet**](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/Flag%200.csv) This allows for further analysis and verification of the execution counts across devices.
 
 These artifacts provide visual and tabular confirmation of the suspicious activity on `michaelvm`, reinforcing its selection as the initial point of investigation in this threat hunt.
+
+The link to go back to the  [scenario](https://github.com/SruthinagaK/ThreatHunt-Lurker)
