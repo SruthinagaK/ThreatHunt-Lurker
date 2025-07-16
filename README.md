@@ -54,6 +54,28 @@ Identify the hash value of the script or binary used for reconnaissance.
 
 
 ### 🚩 Flag 3 – Sensitive Document Access
+
+🎯 Objective:
+Reveal the document accessed or staged by the attacker that indicates their motive or target.
+
+🔍 What to Hunt:
+Look for access to:
+
+Meeting-related directories
+Confidential financial or crypto documents
+💭 Thought:
+The attacker’s interest in financial data reveals their intent and motive. Following the trail of sensitive document access helps uncover what they were after — in this case, money.
+
+✅ Answer:
+The attacker accessed the following sensitive document:
+
+`QuarterlyCryptoHoldings.docx `
+
+This file likely contains confidential financial information and was a key target in the attacker’s operation.
+
+🔗 Click here to view full details in [Flag 3]() to view full details.
+
+
 ### 🚩 Flag 4 – Last Manual Access to File
 ### 🚩 Flag 5 – LOLBin Usage: bitsadmin
 ### 🚩 Flag 6 – Suspicious Payload Deployment
