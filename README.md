@@ -73,10 +73,16 @@ The attacker accessed the following sensitive document:
 
 This file likely contains confidential financial information and was a key target in the attacker’s operation.
 
-🔗 Click here to view full details in [Flag 3]() to view full details.
+🔗 Click here to view full details in [Flag 3– Sensitive Document Access](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/flag_3.md) to view full details.
 
 ### 🚩 Flag 4 – Last Manual Access to File
+1. 🎯 Objective
+Track the last manual access to a sensitive document — QuarterlyCryptoHoldings.docx — before potential exfiltration. This helps pinpoint the moment the attacker interacted with the file directly, which often precedes data theft.
+✅ Answer:
 
+Identify the last instance of the file access `2025-06-16T06:12:28.2856483Z2025-06-16T06:12:28.2856483Z `
+
+🔗 Click here to view full details in [Flag 4  – Last Manual Access to File](https://github.com/SruthinagaK/ThreatHunt-Lurker/blob/main/flag_4.md) to view full details.
 
 ### 🚩 Flag 5 – LOLBin Usage: bitsadmin
 
