@@ -75,16 +75,33 @@ This file likely contains confidential financial information and was a key targe
 
 🔗 Click here to view full details in [Flag 3]() to view full details.
 
-
 ### 🚩 Flag 4 – Last Manual Access to File
+
+
 ### 🚩 Flag 5 – LOLBin Usage: bitsadmin
+
+
 ### 🚩 Flag 6 – Suspicious Payload Deployment
+
+
 ### 🚩 Flag 7 – HTA Abuse via LOLBin
+
+
 ### 🚩 Flag 8 – ADS Execution Attempt
+
+
 ### 🚩 Flag 9 – Registry Persistence Confirmation
+
+
 ### 🚩 Flag 10 – Scheduled Task Execution
+
+
 ### 🚩 Flag 11 – Target of Lateral Movement
+
+
 ### 🚩 Flag 12 – Lateral Move Timestamp
+
+
 
 
 
