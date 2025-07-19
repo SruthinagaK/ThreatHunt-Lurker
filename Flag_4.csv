@@ -1,0 +1,35 @@
+﻿Timestamp,ActionType,FileName,InitiatingProcessFileName,InitiatingProcessCommandLine,FolderPath
+"Jun 17, 2025 10:49:59 AM",SensitiveFileRead,employee-data-20250617004952.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 17, 2025 6:49:33 AM",SensitiveFileRead,employee-data-20250616204926.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 17, 2025 2:49:21 AM",SensitiveFileRead,employee-data-20250616164914.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 16, 2025 10:49:44 PM",SensitiveFileRead,employee-data-20250616124937.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 16, 2025 6:49:43 PM",SensitiveFileRead,employee-data-20250616084936.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 16, 2025 4:12:28 PM",SensitiveFileRead,QuarterlyCryptoHoldings.docx,wordpad.exe,"""WORDPAD.EXE"" ""C:\Users\Mich34L_id\Documents\BoardMinutes\QuarterlyCryptoHoldings.docx""",C:\Users\Mich34L_id\Documents\BoardMinutes
+"Jun 16, 2025 4:10:44 PM",SensitiveFileRead,QuarterlyCryptoHoldings.docx,wordpad.exe,"""WORDPAD.EXE"" ""C:\Users\Mich34L_id\Documents\BoardMinutes\QuarterlyCryptoHoldings.docx""",C:\Users\Mich34L_id\Documents\BoardMinutes
+"Jun 16, 2025 3:59:26 PM",SensitiveFileRead,QuarterlyCryptoHoldings.docx,wordpad.exe,"""WORDPAD.EXE"" ""C:\Users\Mich34L_id\Documents\BoardMinutes\QuarterlyCryptoHoldings.docx""",C:\Users\Mich34L_id\Documents\BoardMinutes
+"Jun 16, 2025 3:59:03 PM",SensitiveFileRead,QuarterlyCryptoHoldings.docx,wordpad.exe,"""WORDPAD.EXE"" ""C:\Users\Mich34L_id\Documents\BoardMinutes\QuarterlyCryptoHoldings.docx""",C:\Users\Mich34L_id\Documents\BoardMinutes
+"Jun 16, 2025 3:58:38 PM",SensitiveFileRead,QuarterlyCryptoHoldings.docx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\Documents\BoardMinutes
+"Jun 16, 2025 3:57:52 PM",SensitiveFileRead,QuarterlyCryptoHoldings.docx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\Documents\BoardMinutes
+"Jun 16, 2025 3:42:44 PM",SensitiveFileRead,Vendor_Contract_.pdf,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Marketing\Campaigns
+"Jun 16, 2025 3:42:44 PM",SensitiveFileRead,Vendor_Contract_.pdf,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Crypto\Wallets
+"Jun 16, 2025 3:42:43 PM",SensitiveFileRead,Quarterly_Earnings_.xlsx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Cloud\Integrations
+"Jun 16, 2025 3:42:43 PM",SensitiveFileRead,Tokenomics_Summary_.pdf,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Cloud\Integrations
+"Jun 16, 2025 3:42:43 PM",SensitiveFileRead,Risk_Report_2025_.docx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Clients\Startups
+"Jun 16, 2025 3:42:43 PM",SensitiveFileRead,Vendor_Contract_.pdf,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Clients\Startups
+"Jun 16, 2025 3:42:43 PM",SensitiveFileRead,Risk_Report_2025_.docx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Clients\Enterprise
+"Jun 16, 2025 3:42:42 PM",SensitiveFileRead,Risk_Report_2025_.docx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\VendorDocs
+"Jun 16, 2025 3:42:42 PM",SensitiveFileRead,HR_Policy_.pdf,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Strategy
+"Jun 16, 2025 3:42:42 PM",SensitiveFileRead,Quarterly_Earnings_.xlsx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Legal
+"Jun 16, 2025 3:42:42 PM",SensitiveFileRead,Marketing_Brief_June_.pptx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Legal
+"Jun 16, 2025 3:42:41 PM",SensitiveFileRead,Tokenomics_Summary_.pdf,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\HR
+"Jun 16, 2025 3:42:41 PM",SensitiveFileRead,HR_Policy_.pdf,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\Clients
+"Jun 16, 2025 3:41:19 PM",SensitiveFileRead,DeFi_Plans.xlsx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorpCryptoSim\VendorDocs
+"Jun 16, 2025 3:39:14 PM",SensitiveFileRead,Initial_Coin_Offering_Plan_.zip,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorporateSim\Meetings\2025
+"Jun 16, 2025 3:37:40 PM",SensitiveFileRead,multi_sig_wallet_keys_.xlsx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorporateSim\Projects\2025_Q2
+"Jun 16, 2025 3:37:38 PM",SensitiveFileRead,contract_template_v3_.docx,powershell.exe,powershell.exe,C:\Users\Mich34L_id\CorporateSim\Clients
+"Jun 16, 2025 2:49:47 PM",SensitiveFileRead,employee-data-20250616044940.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 16, 2025 10:49:12 AM",SensitiveFileRead,employee-data-20250616004905.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 16, 2025 6:49:19 AM",SensitiveFileRead,employee-data-20250615204912.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 16, 2025 2:49:36 AM",SensitiveFileRead,employee-data-20250615164929.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 15, 2025 2:49:31 PM",SensitiveFileRead,employee-data-20250615044924.zip,powershell.exe,powershell.exe  -ExecutionPolicy Bypass -File C:\programdata\exfiltratedata.ps1,C:\ProgramData
+"Jun 15, 2025 2:13:07 PM",SensitiveFileRead,Microsoft.CPlat.Core.RunCommandWindows_1.1.18.zip,windowsazureguestagent.exe,WindowsAzureGuestAgent.exe,C:\Packages\Plugins\Microsoft.CPlat.Core.RunCommandWindows\1.1.18
